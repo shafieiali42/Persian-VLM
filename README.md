@@ -34,7 +34,7 @@ Here are some example outputs from the **Persian Image Captioning** model:
 <table>
   <tr>
     <td align="center">
-      <img src="assets/Ski.png" alt="Example 2" width="250" height="200">
+      <img src="assets/Ski.png" alt="Example 1" width="250" height="200">
       <p><strong>یک اسکی باز در حال اسکی کردن از تپه ای برفی است.</strong></p>
     </td>
      <td align="center">
@@ -42,21 +42,21 @@ Here are some example outputs from the **Persian Image Captioning** model:
       <p><strong>مردم در یک بازار شلوغ در فضای باز</strong></p>
     </td>
     <td align="center">
-      <img src="assets/Girls.png" alt="Example 2" width="300" height="200">
+      <img src="assets/Girls.png" alt="Example 3" width="300" height="200">
       <p><strong>سه دختر جوان د حال بازی با یکدیگر</strong></p>
     </td>
   <tr>
   <tr>
     <td align="center">
-      <img src="assets/Dancing.png" alt="Example 2" width="250" height="200">
+      <img src="assets/Dancing.png" alt="Example 4" width="250" height="200">
       <p><strong>گروهی از زنان در حال رقصیدن در یک سالن رقص هستند.</strong></p>
     </td>
     <td align="center">
-      <img src="assets/Dogs.png" alt="Example 1" width="300" height="200">
+      <img src="assets/Dogs.png" alt="Example 5" width="300" height="200">
       <p><strong>سه سگ در حال بازی در چمن</strong></p>
     </td>
     <td align="center">
-      <img src="assets/Surfing.png" alt="Example 2" width="400" height="200">
+      <img src="assets/Surfing.png" alt="Example 6" width="400" height="200">
       <p><strong>مردی با پیراهن آبی در حال پریدن از روی تخته موج سوار است.</strong></p>
     </td>
   </tr>
